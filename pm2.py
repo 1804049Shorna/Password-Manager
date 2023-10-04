@@ -7,6 +7,7 @@ import random
 import string
 import cryptography
 
+
 # Initialize the database
 def init_db():
     conn = sqlite3.connect('password_manager.db')
