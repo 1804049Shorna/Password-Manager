@@ -5,6 +5,7 @@ from cryptography.fernet import Fernet
 import json
 import random
 import string
+import cryptography
 
 # Initialize the database
 def init_db():
