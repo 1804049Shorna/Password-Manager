@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Example",
+        "username": "user123",
+        "password": "mysecretpassword",
+        "notes": "This is an example password entry."
+    },
+    {
+        "name": "Bank",
+        "username": "bankuser",
+        "password": "bankpassword123",
+        "notes": "Bank account password."
+    }
+]
